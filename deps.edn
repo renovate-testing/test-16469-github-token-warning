@@ -1,6 +1,6 @@
 {
   :deps {
     io.github.metosin/malli {:git/tag "0.8.3"
-                             :git/sha "9d265fa"}
+                             :git/sha "806fa140dbbbcc545b95d6df841199e5a4053143"}
   }
 }
